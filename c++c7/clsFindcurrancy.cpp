@@ -1,0 +1,1 @@
+#include "clsFindcurrancy.h"

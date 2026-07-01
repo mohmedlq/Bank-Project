@@ -1,0 +1,229 @@
+﻿  c++c7.cpp
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(211,18): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'c++c7.cpp')
+      D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(105,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(211,18): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferLogRecord' when no variable is declared
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(329,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(341,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(354,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsAddnew.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsUpdate.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clstotalbalnces.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsTransfer.h(37,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsTransfer.h(42,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsCurancy.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsconvertcurrncy.h(16,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsMainScreen.h(169,43): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'c++c7.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsLogin.h(10,9): error C1083: Cannot open include file: 'CurrentClient.h': No such file or directory
+  (compiling source file 'c++c7.cpp')
+  
+  clsLogin.cpp
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(211,18): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsLogin.cpp')
+      D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(105,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(211,18): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferLogRecord' when no variable is declared
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(329,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(341,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(354,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsAddnew.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsUpdate.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clstotalbalnces.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsTransfer.h(37,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsTransfer.h(42,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsCurancy.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsconvertcurrncy.h(16,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsMainScreen.h(169,43): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'clsLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsLogin.h(10,9): error C1083: Cannot open include file: 'CurrentClient.h': No such file or directory
+  (compiling source file 'clsLogin.cpp')
+  
+  clsUserLogin.cpp
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(211,18): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUserLogin.cpp')
+      D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(105,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(211,18): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferLogRecord' when no variable is declared
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(329,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(341,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClintbank.h(354,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsInputValidate.h(115,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsInputValidate.h(119,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsAddnew.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsUpdate.h(31,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clstotalbalnces.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsTransfer.h(37,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsTransfer.h(42,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsCurancy.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsconvertcurrncy.h(16,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsMainScreen.h(169,43): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsClientsmainmenu.h(102,43): warning C4129: ' ': unrecognized character escape sequence
+  (compiling source file 'clsUserLogin.cpp')
+  
+D:\mohmed++\Ultmate Bank Project\c++c7\clsclientlogin.h(11,9): error C1083: Cannot open include file: 'CurrentClient.h': No such file or directory
+  (compiling source file 'clsUserLogin.cpp')
+  
+  Generating Code...
