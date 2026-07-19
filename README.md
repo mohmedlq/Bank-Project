@@ -125,6 +125,9 @@ Banking Management System
 - 📋 List All Customers
 - 📊 Check Account Balance
 - 🔐 User Authentication
+- 🔑 Password Encryption
+- 💳 ATM Simulation
+- 👥 Role-Based Permissions
 
 ---
 
@@ -150,13 +153,7 @@ Potential future enhancements include:
 - 🗄 SQL Database Integration
 - 🌐 REST API Version
 - 🖥 Graphical User Interface (GUI)
-- 🔑 Password Encryption
-- 📜 Transaction History
 - 📊 Financial Reports
-- 💳 ATM Simulation
-- 👥 Role-Based Permissions
-- ☁ Cloud Data Storage
-
 ---
 
 # 📌 Project Status
